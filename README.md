@@ -4,7 +4,7 @@
 ## STARR
 
 ### Situatie
-Winst groentetuin berekenen.
+Winst groentetuin berekenen
 
 ### Taken
 Unit testen schrijven - TDD
